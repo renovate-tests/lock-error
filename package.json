@@ -17,8 +17,7 @@
   },
   "devDependencies": {
     "tslint": "^4.0.0",
-    "typescript": "^1.0.0",
-    "noexsitfoo": "1.0.0"
+    "typescript": "^1.0.0"
   },
   "renovate": {
     "extends": [":library"],
