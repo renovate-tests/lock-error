@@ -16,7 +16,7 @@
     "url": "https://github.com/renovate-tests/private-npm/issues"
   },
   "devDependencies": {
-    "somethingnotexistnow": "^1.0.0"
+    "tslint": "^1.0.0"
   },
   "renovate": {
     "extends": [":library"],
