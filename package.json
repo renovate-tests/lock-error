@@ -23,7 +23,7 @@
     "extends": [":library"],
     "lockFileMaintenance": {
       "enabled": true,
-      "schedule": [],
+      "schedule": []
     },
     "prNotPendingHours": 0
   },
