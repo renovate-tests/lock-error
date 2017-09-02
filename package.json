@@ -21,6 +21,10 @@
   },
   "renovate": {
     "extends": [":library"],
+    "lockFileMaintenance": {
+      "enabled": true,
+      "schedule": [],
+    },
     "prNotPendingHours": 0
   },
   "homepage": "https://v#readme"
