@@ -16,8 +16,8 @@
     "url": "https://github.com/renovate-tests/private-npm/issues"
   },
   "devDependencies": {
-    "tslint": "^4.0.0",
-    "typescript": "^1.0.0",
+    "tslint": "4.5.1",
+    "typescript": "1.8.10",
     "noexsitfoo": "1.0.0"
   },
   "renovate": {
